@@ -1,5 +1,5 @@
 # remove-pagination
-Chrome Extension untuk menghilangkan paginasi pada halaman web berita (tribunnews, kompas, viva, merdeka)
+Chrome Extension untuk menghilangkan paginasi pada halaman web berita (tribunnews, kompas, viva, merdeka, detik)
 
 
 ![Screenshot (85)](https://user-images.githubusercontent.com/92042517/184494197-7159a62b-7904-4c8e-9543-eb3834c4325f.png)
